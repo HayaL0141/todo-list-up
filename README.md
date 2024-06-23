@@ -1,2 +1,3 @@
 # todo-list-up
-A Todo List application using Python, PostgreSQL, and React
+echo. >> README.md
+echo A simple todo list application using Python, PostgreSQL, and React. >> README.md
